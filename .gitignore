@@ -216,5 +216,5 @@ __marimo__/
 # Myocardial Perfusion/
 
 # Glaucomatous Optic Neuropathy/
-Brugada Syndrome/brugada-load_data.py
-Myocardial Perfusion/myocardial-load_data.py
+Brugada Syndrome/brugada_load_data.py
+Myocardial Perfusion/myocardial_load_data.py
