@@ -205,3 +205,16 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# dataset
+# Glaucomatous Optic Neuropathy/glaucoma-dataset/
+# Brugada Syndrome/brugada-syndrome-dataset/
+# Myocardial Perfusion/myocardial-perfusion-dataset/
+
+# Glaucomatous Optic Neuropathy/
+# Brugada Syndrome/
+# Myocardial Perfusion/
+
+# Glaucomatous Optic Neuropathy/
+Brugada Syndrome/brugada-load_data.py
+Myocardial Perfusion/myocardial-load_data.py
